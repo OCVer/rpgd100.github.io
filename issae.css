@@ -1,0 +1,28 @@
+a{
+    text-decoration: none;
+}
+center div a{
+    font-family: sans-serif;
+    text-decoration: none;
+    background-color: azure;
+    padding: 2px;
+    border: solid 3px;
+}
+span {
+    text-decoration: none;
+    border: solid 10px;
+    border-radius: 10px;
+    border-color: aquamarine;
+    background-color: aquamarine;
+    transition: 400ms;
+}
+span:hover{
+    background-color:brown;
+    border: solid 10px;
+    border-radius: 10px;
+    border-color:brown;
+    color:aliceblue;
+}
+center{
+    font-family: sans-serif
+}
